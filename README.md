@@ -7,25 +7,25 @@ The motivation behind choosing this project is the large amount of data that the
 * **How we built our project ?**<br>
 As part of the project, The two datasets are cleaned and transformed into various different datasets to meet our requirements. <br>
 They are as follow:<br>
-  credits (treated the null values)<br>
-  titles (treated the null values)<br>
-  show_titles (titles are divided into type = show)<br>
-  movie_titles (titles are divided into type = movie and removed seasosn column from the dataset)<br>
-  movie_tc (movie_title and credits are merged using ids)<br>
-  show_tc (show_title and credits are merged using ids) <br>
-  popuar_movie (Removed the null imdb_id's and replvisualizationsaced the other null values with their mean) <br>
-  popular_show (Removed the null imdb_id's and replaced the other null values with their mean) <br>
+ >> credits (treated the null values)<br>
+ >> titles (treated the null values)<br>
+ >> show_titles (titles are divided into type = show)<br>
+ >> movie_titles (titles are divided into type = movie and removed seasosn column from the dataset)<br>
+ >> movie_tc (movie_title and credits are merged using ids)<br>
+ >> show_tc (show_title and credits are merged using ids) <br>
+ >> popuar_movie (Removed the null imdb_id's and replvisualizationsaced the other null values with their mean) <br>
+ >> popular_show (Removed the null imdb_id's and replaced the other null values with their mean) <br>
 We've used these datasets and built some interactive dashboards in Tableau and integrated those into the streamlit.<br>
 We also dicussed few questions and tried to answer using that are designed using a package callled Plotly.<br>
 * **Tools and Packages:**<br>
-   Tableau<br>
-   Python<br>
-   Packages:<br>
-    streamlit<br>
-    pandas<br>
-    numpy<br>
-    plotly.express<br>
-    Pillow<br>
+   >Tableau<br>
+   >Python<br>
+   >Packages:<br>
+    >>streamlit<br>
+    >>pandas<br>
+    >>numpy<br>
+    >>plotly.express<br>
+    >>Pillow<br>
 * **Links and Ref:**<br>
    Check out this for all the dashboards that are created for this project : https://public.tableau.com/app/profile/jayanth.telu<br><br>
 
