@@ -80,7 +80,7 @@ with st.expander("ℹ️ - About this project", expanded=True):
 
     st.markdown("### Links and Ref:")
     st.write("-  Check out this for all the dashboards that are created for this project : https://public.tableau.com/app/profile/jayanth.telu")
-    st.write("-  Check this out for the source code : https://github.com/Jayanth-Dileep/Netflix_EDA")
+    st.write("-  Check this out for the source code : https://github.com/jayanthtelu/Netflix_EDA")
     st.markdown("")
     
     st.markdown("### Authors")
