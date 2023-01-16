@@ -82,7 +82,12 @@ with st.expander("ℹ️ - About this project", expanded=True):
     st.write("-  Check out this for all the dashboards that are created for this project : https://public.tableau.com/app/profile/jayanth.telu")
     st.write("-  Check this out for the source code : https://github.com/Jayanth-Dileep/Netflix_EDA")
     st.markdown("")
-
+    
+    st.markdown("### Authors")
+    st.write("-  Jayanth Telu : https://www.linkedin.com/in/jayanth-telu-033067172/")
+    st.write("-  Ujwala Mallela : https://www.linkedin.com/in/ujwala-mallela/")
+    st.markdown("")
+    
 col1, mid, col2 = st.columns([1,1,60])
 with mid:
     st.markdown("")
